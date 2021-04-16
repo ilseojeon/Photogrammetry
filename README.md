@@ -1,4 +1,4 @@
-## Go to master branch!
+## Codes are in master branch!
 
 # Photogrammetry
 
