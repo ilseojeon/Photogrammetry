@@ -1,10 +1,10 @@
+## Go to master branch!
+
 # Photogrammetry
 
 ---
 
 ### What are these codes about?
-
----
 
 These are from a class "Advanced Photogrammetry" lectured by Prof. Impyeong Lee from LSM(Lab for sensor and modeling), dept. of Geoinformatics, University of Seoul.
 
@@ -14,9 +14,9 @@ I want to share my assignments for who's willing to start to learn basic codes o
 
 Instructions are below for each folder.
 
-### Instructions for each folder
-
 ---
+
+### Instructions for each folder
 
 Lectures are organized in 7 labs, aiming to understand bundle adjustment which plays an important role in SfM frameworks(also used in SLAM nowadays). Each lab has the following main codes, showing the goal of it.
 
@@ -62,8 +62,8 @@ AT_Estimate_Kg.m:Implement bundle adjustment with only ground control points
 
 Although each folder has the detailed information by .pdf files, those are written in Korean. I tried to make all codes clear with comments in codes instead. 
 
-### Referenced by
-
 ---
+
+### Referenced by
 
 "Advanced Photogrammetry" lectured by Prof. Impyeong Lee from LSM(Lab for sensor and modeling), dept. of Geoinformatics, University of Seoul.
